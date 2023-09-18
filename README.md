@@ -10,7 +10,7 @@
 #### 💻 &nbsp; About Me :
 I'm a passionate and innovative Frontend Developer with a keen eye for detail and a love for creating beautiful and functional web interfaces. With 8+ years of experience in the industry, I've honed my skills in crafting delightful user experiences while staying at the forefront of evolving web technologies.
 
-🚀 Expertise: I specialize in bringing designs to life using a combination of HTML, CSS, and modern JavaScript frameworks like React.js. My deep proficiency in crafting responsive and visually stunning interfaces ensures that users have a seamless experience across devices and browsers.
+🚀 Expertise: I specialize in bringing designs to life using a combination of HTML, CSS, and modern JavaScript frameworks like React.js and Angular. My deep proficiency in crafting responsive and visually stunning interfaces ensures that users have a seamless experience across devices and browsers.
 
 🌐 Web Performance Advocate: I understand the importance of web performance and strive to optimize every piece of code I write. From efficient rendering to reducing load times, I'm dedicated to ensuring that users enjoy fast and responsive web applications.
 
